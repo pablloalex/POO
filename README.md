@@ -1,9 +1,9 @@
-# 1 -  o que é um vetor em c++? Explique com suas palavras.
+  -  o que é um vetor em c++? Explique com suas palavras.
  Qual a diferença entre declarar um vetor com valor fixo e inicializá-lo com valores específicos?
 
-# 2 - Explique o que significa índice e qual o intervalo válido para um vetor int notas[10];
+ - Explique o que significa índice e qual o intervalo válido para um vetor int notas[10];
 
-# 3 -Crie um programa que:
+  -Crie um programa que:
     Possua um vetor de 5 números inteiros
     Peça ao usuário para digitar os valores
     Exiba todos os valores digitados
